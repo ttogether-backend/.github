@@ -24,5 +24,5 @@
 |Deployment Tool| <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white">|
 
 ## 아키텍처
-<img src"./resources/architecture.png">
+<img src="./resources/architecture.png">
 
